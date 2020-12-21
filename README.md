@@ -1,4 +1,10 @@
-### Hi there 👋
+
+![](https://github-readme-stats.vercel.app/api?username=horou-sk&count_private=true&show_icons=true)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=horou-sk)
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **horou-sk/horou-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
